@@ -1,0 +1,2 @@
+pip install qimage2ndarray PyQt5 rospkg pythonnet numpy opencv-python
+C:\opt\ros\melodic\x64\python.exe -m pip install https://github.com/CiRA-AMI/cira_ros_numpy/archive/refs/heads/master.zip
