@@ -19,4 +19,4 @@ python cira_imagingsource_dfk_afu420.py
 ```
 
 - Use ImageCall in CiRA CORE
-![image_call](https://github.com/CiRA-AMI/cira-core-auto-start/blob/main/pic/autorun.jpg?raw=true?inline=false)
+![image_call](https://github.com/CiRA-AMI/cira-imagingsource-dfk-afu420/blob/main/imagecall.jpg?raw=true?inline=false)
